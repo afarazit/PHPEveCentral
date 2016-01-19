@@ -1,19 +1,24 @@
 {
-    "name": "manhim/phpevecentral",
-    "description": "A simple to use API library for Eve-Central.",
+    "name": "afarazit/phpevecentral",
+    "description": "A simple to use API library for Eve-Central (updated).",
     "type": "library",
     "keywords": ["EVE Online", "PHPEveCentral", "Eve Central"],
-    "homepage": "https://github.com/Manhim/PHPEveCentral",
+    "homepage": "https://github.com/afarazit/PHPEveCentral",
     "license": "BSD-2-Clause",
     "authors": [
         {
             "name": "Marc André Audet",
             "email": "root@manhim.net",
             "homepage": "http://manhim.net"
+        },
+        {
+            "name": "Antonis Farangitakis",
+            "email": "afarazi@gmail.com",
+            "homepage": ""
         }
     ],
     "support": {
-        "issues": "https://github.com/Manhim/PHPEveCentral/issues"
+        "issues": "https://github.com/afarazit/PHPEveCentral/issues"
     },
     "require": {
         "php": ">=5.3.9"
